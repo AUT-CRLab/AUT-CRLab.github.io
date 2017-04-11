@@ -2,12 +2,12 @@
 layout: default
 categories: people
 people:
- -  name: Katerina Artavanis-Tsakonas, Ph.D, MPH
- 	image: images/kat.png
-	sub: Principal Investigator, Wellcome Trust Career Development Fellow
-	edu: Ph.D Immunology, London School of Hygiene  Tropical Medicine<br>
-MPH Epidemiology, Yale University<br>
-Post-doctoral associate, Whitehead Institute	
+ -  name: Saeed Shiry Ghidary, Assistant Professor
+ 	image: images/shiry.png
+	sub: Supervisor
+	edu: Ph.D Robotics, Robotics, Kobe University, Kobe, Japan, 1999-2002<br>
+	Member of Artifitial Intelligence Group, CEIT, Amirkabir University of Technology
+
  -  name: Sachiko Miyata, Ph.D
  	image: images/sach.png
 	sub: Post-doctoral associate
