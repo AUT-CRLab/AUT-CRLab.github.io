@@ -123,7 +123,14 @@
 
 	img.scale-with-grid {
 		max-width: 100%;
-		height: auto; }
+		height: auto;
+	 	width: auto;
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		  -webkit-transform: translate(-50%,-50%);
+		      -ms-transform: translate(-50%,-50%);
+			  transform: translate(-50%,-50%); }
 	img.floating {
 		float: left;
 		padding: 0px 10px 10px 0px; }
