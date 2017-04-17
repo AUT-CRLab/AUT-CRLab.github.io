@@ -9,7 +9,7 @@ weight: 4
 &nbsp;&nbsp;(to be submited) In Intelligent Robots and Systems, 2017. IROS 2017. IEEE/RSJ International Conference. IEEE, 2017.
 
 
-&nbsp;&nbsp;**3D Human Pose Estimation from 2D Images for a Rescue Robot**<br>
+&nbsp;&nbsp;**Victim Detection and 3D Pose Estimation from 2D Images for a Rescue Robot**<br>
 &nbsp;&nbsp;M. TaherAhmadi, S. Azami, S. Shiry. <br>
 &nbsp;&nbsp;(to be submited) In Intelligent Robots and Systems, 2017. IROS 2017. IEEE/RSJ International Conference. IEEE, 2017.
 
