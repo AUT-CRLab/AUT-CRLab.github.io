@@ -1,4 +1,4 @@
-katlab.github.com
+CRLab.ml
 =================
 
-Katerina Artavanis Tsakonas group website
+Cognitive Robotics Laboratory website
