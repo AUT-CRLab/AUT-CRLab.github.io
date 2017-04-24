@@ -6,7 +6,7 @@ weight: 6
 
 We are located in the heart of AmirKabir University of Technology campus.
 
-![AUT](images/amirkabir.png)
+<img src="/images/amirkabir.png" width="720px" alt="AUT">
 
 Our address is:
 
