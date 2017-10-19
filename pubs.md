@@ -4,6 +4,10 @@ title: Publications
 weight: 4
 --- 
 
+&nbsp;&nbsp;**Humanoid Robot Detection Using Deep Learning: A Speed-Accuracy Tradeoff.**<br>
+&nbsp;&nbsp;S.Mokhtarzadeh, M.Javadi, S.Azami, S.Sadeghnejad, S.Shiry, and J.Baltes. <br>
+&nbsp;&nbsp;RoboCup Symposium 2017, Springer International Publishing.
+<a href="https://www.robocup2017.org/file/symposium/RoboCup_Symposium_2017_paper_41.pdf">(Link)</a>
 
 &nbsp;&nbsp;**S.O.S VR Team Description Paper, RoboCup2017 Rescue Virtual Robot League.**<br>
 &nbsp;&nbsp;Mh. GohariNejad, M. Ahmadi, M. TaherAhmadi, S. Azami, S. Shiry. <br>
