@@ -3,6 +3,9 @@ layout: default
 title: Publications
 weight: 4
 --- 
+&nbsp;&nbsp;**Prognostic value of the qEEG in opium poisoning.**<br>
+&nbsp;&nbsp;E.Sakhaei, M.Mahdiani, H.Hassanian-Moghaddam, H.Pakdaman, AA.Harandi.<br>
+under preparation.
 
 &nbsp;&nbsp;**Humanoid Robot Detection Using Deep Learning: A Speed-Accuracy Tradeoff.**<br>
 &nbsp;&nbsp;S.Mokhtarzadeh, M.Javadi, S.Azami, S.Sadeghnejad, S.Shiry, and J.Baltes. <br>
