@@ -13,7 +13,7 @@ weight: 4
 <a href="https://www.robocup2017.org/file/symposium/RoboCup_Symposium_2017_paper_41.pdf">(Link)</a>
 
 &nbsp;&nbsp;**S.O.S VR Team Description Paper, RoboCup2017 Rescue Virtual Robot League.**<br>
-&nbsp;&nbsp;Mh. GohariNejad, M. Ahmadi, M. TaherAhmadi, S. Azami, S. Shiry. <br>
+&nbsp;&nbsp;Mh. GohariNejad, M. Ahmadi, Ar. Torabian, M. TaherAhmadi, S. Azami, S. Shiry. <br>
 &nbsp;&nbsp;International RoboCup Competition, July 2017, Nagoya, Japan.
 
 
